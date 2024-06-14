@@ -1,5 +1,1 @@
-jellyfin/jellyfin 
-dreamacro/clash
-chenzhaoyu94/chatgpt-web 
-allanpk716/chinesesubfinder
-linuxserver/jackett
+oldiy/chrome-novnc
